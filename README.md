@@ -15,4 +15,9 @@ Email : rinositanggang6@gmail.com
 Click me: ..........................
 
 ## Preview my Web profile
-![Preview web profile](landingPage.png)
+
+## Desktop view
+![Preview in desktop](img/landingPage.png)
+
+## Mobile view
+![Preview in mobike](img/phone.png)
