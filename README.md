@@ -17,8 +17,8 @@ Email : rinositanggang6@gmail.com
 
 ## Preview my Web profile
 
-## Desktop view
+### Desktop view
 ![Preview in desktop](/asset/img/landingPage.png)
 
-## Mobile view
+### Mobile view
 ![Preview in mobile](/asset/img/phone.png)
