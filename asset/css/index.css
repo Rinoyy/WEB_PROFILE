@@ -281,6 +281,10 @@ footer {
   border-top: 1px solid white;
 }
 /* end footer */
+.logo p {
+  font-size: 25px !important;
+
+}
 
 /* end about me */
 @media (max-width: 768px) {
@@ -374,7 +378,12 @@ footer {
     position: absolute;
   }
   .item-skils .logo {
+    font-size: 55px;
     width: 30% !important;
+  }
+ .logo p {
+    font-size: 25px !important;
+
   }
   .content-horizontal {
     display: flex;
