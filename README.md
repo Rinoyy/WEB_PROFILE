@@ -17,7 +17,7 @@ Click me: ..........................
 ## Preview my Web profile
 
 ## Desktop view
-![Preview in desktop](img/landingPage.png)
+![Preview in desktop](/asset/img/landingPage.png)
 
 ## Mobile view
-![Preview in mobike](img/phone.png)
+![Preview in mobile](/asset/img/phone.png)
